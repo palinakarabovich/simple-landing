@@ -1,0 +1,6 @@
+.testimoial__squares{
+ display: flex;
+ justify-content: space-between;
+ width: 40px;
+ margin-bottom: 25px;
+}

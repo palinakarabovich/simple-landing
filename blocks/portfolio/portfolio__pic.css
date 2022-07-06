@@ -1,0 +1,12 @@
+.portfolio__pic{
+    width: 370px;
+    margin: 0px 10px 20px 0;
+    box-shadow: 1px 1px 10px 0px #9b9b9b;
+    border: 1px white solid;
+    box-sizing: border-box;
+}
+
+.portfolio__pic:hover{
+    background-color: black;
+    opacity: 0.5;
+}

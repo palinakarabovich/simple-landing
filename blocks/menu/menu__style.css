@@ -1,0 +1,10 @@
+.menu__style{
+    color: #686868;
+    text-transform: uppercase;
+}
+
+.menu__style:hover{
+    border-bottom: 2px solid #686868;
+    padding-bottom: 3px;
+    color: white;
+}

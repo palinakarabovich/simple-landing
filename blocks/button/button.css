@@ -1,0 +1,10 @@
+.button{
+    width: auto;
+    height: 50px;
+    background-color: transparent;
+    border: 1px #686868 solid;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #686868;
+}

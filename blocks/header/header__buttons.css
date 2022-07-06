@@ -1,0 +1,7 @@
+.header__buttons{
+    width: 340px;
+    height: auto;
+    margin: 40px 0 0 100px;
+    display: flex;
+    justify-content: space-around;
+}

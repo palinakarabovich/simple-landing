@@ -1,0 +1,7 @@
+.testimonial__square{
+    width: 10px;
+    height: 10px;
+    border: 1px #c5c5c5 solid;
+    box-sizing: border-box;
+}
+

@@ -1,0 +1,9 @@
+.button_style_header{
+    width: 160px;
+}
+
+.button_style_header:hover{
+    background-color: white;
+    font-weight: bold;
+    border: none;
+}

@@ -1,0 +1,12 @@
+.button_style_about{
+    width: 245px;
+    margin-top: 50px;
+}
+
+.button_style_about:hover{
+    background-color: #686868;
+    font-weight: bold;
+    border: none;
+    color: white;
+    border: none;
+}

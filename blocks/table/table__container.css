@@ -1,0 +1,7 @@
+.table__container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80%;
+    column-gap: 150px;
+}

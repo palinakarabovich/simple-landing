@@ -1,0 +1,18 @@
+.button_style_contact{
+    width: 160px;
+    height: 50px;
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #686868;
+    margin: 30px 0 0 0;
+}
+
+.button_style_contact:hover{
+    background-color: transparent;
+    color: white;
+    border: 1px white solid;
+    box-sizing: border-box;
+    font-weight: bold;
+}
